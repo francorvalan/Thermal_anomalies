@@ -12,4 +12,4 @@ t = get_leaflet_tile_layer(tile_client, band=[1,2,3])
 m = Map(center=tile_client.center(), zoom=14)
 m.add_layer(t)
 m
-m.save('./Thermal_map.html')
+#m.save('./Thermal_map.html')
