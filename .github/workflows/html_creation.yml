@@ -1,3 +1,4 @@
+name: Consulta de posiciones de embarcaciones
 on:
   push:
     branches: [ "main" ]
