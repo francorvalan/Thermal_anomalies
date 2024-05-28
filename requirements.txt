@@ -1,0 +1,2 @@
+localtileserver==0.10.3
+ipyleaflet==0.18.2
