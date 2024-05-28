@@ -1,1 +1,1 @@
-# Thermal_anomalies
+# Anomalias Térmicas
