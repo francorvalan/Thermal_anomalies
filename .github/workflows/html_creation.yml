@@ -1,4 +1,4 @@
-name: Creacion html
+name: Creación html
 on:
   push:
     branches: [ "main" ]
