@@ -1,5 +1,5 @@
 name: Creación html
-on:
+on: 
   push:
     branches: [ "main" ]
   pull_request:
