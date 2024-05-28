@@ -1,6 +1,6 @@
 from localtileserver import get_leaflet_tile_layer, TileClient
 from ipyleaflet import Map
-image_path = 'Thermal_orthomosaic.tif'
+image_path = './Thermal_orthomosaic.tif'
 
 # First, create a tile server from local raster file
 tile_client = TileClient(image_path)
