@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Anomalias térmicas
 description: Se presentan los resultados del análisis térmico de paneles solares utilizando sensores térmicos montados en VANT.
-show_downloads: true
+show_downloads: false
 logo: 
